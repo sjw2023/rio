@@ -298,6 +298,8 @@
 # [shell]
 # program = "/opt/homebrew/bin/tmux"
 # args = ["new-session", "-c", "/var/www"]
+[shell]
+program = "nu"
 
 # Colors
 #
