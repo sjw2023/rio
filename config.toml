@@ -133,6 +133,8 @@
 # opacity = 1.0
 # blur = false
 # decorations = "enabled"
+[window]
+opacity = 0.3
 
 # Renderer
 #
